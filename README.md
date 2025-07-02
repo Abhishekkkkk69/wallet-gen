@@ -15,7 +15,7 @@ A secure wallet generator for Octra blockchain written in TypeScript using Bun's
 
 ## Installation
 
-### Option 1: Download Pre-built Executable (Recommended)
+### Option 1: Download Pre-built Executable (Recommended).
 
 1. **Download the latest release:**
    - Go to the [Releases page](../../releases)
