@@ -1,4 +1,4 @@
-# Octra Wallet Generator (TypeScript Version)
+# Octra Wallet Generator (TypeScript Version).
 
 A secure wallet generator for Octra blockchain written in TypeScript using Bun's native server.
 
